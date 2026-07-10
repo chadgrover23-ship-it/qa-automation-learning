@@ -5,8 +5,10 @@ sample_count = 0
 
 keep_running = "Y"
 
-sample_id = input("Enter Sample ID: ")
 analyst = input("Enter Analyst Name: ")
+
+min_spec = 4.0
+max_spec = 6.0
 
 while keep_running == "Y":
 
@@ -16,8 +18,7 @@ while keep_running == "Y":
 
     result = float(input("Enter Result Value: "))
                    
-    min_spec = 4.0
-    max_spec = 6.0
+
 
     print()
     print("Sample Report")

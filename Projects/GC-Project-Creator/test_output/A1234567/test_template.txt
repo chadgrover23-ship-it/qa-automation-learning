@@ -1,0 +1,7 @@
+GC Test Template
+
+Serial Number:
+Technician: 
+Test Date:
+Configuration:
+Test Results: 
